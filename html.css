@@ -1,0 +1,27 @@
+.navbar {
+  text-align: center;
+  font-size: 24px;
+  background-color: #282a35;
+  padding: 30px;
+  word-spacing: 20px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.intro {
+  font-size: 20px;
+}
+.btn {
+  background-color: #04aa6d;
+  padding: 20px;
+  color: #fff;
+  font-size: 15px;
+}
+.about {
+  background-color: #d9eee1;
+  line-height: 30px;
+}
+#html {
+    text-indent: 20px;
+}
